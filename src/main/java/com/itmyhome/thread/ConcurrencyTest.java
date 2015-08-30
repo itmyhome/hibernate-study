@@ -1,5 +1,9 @@
 package com.itmyhome.thread;
-
+/**
+ * 这是一个并发测试程序
+ * @author Administrator
+ *
+ */
 public class ConcurrencyTest {
 
 	private static final long count = 1000000000l;
