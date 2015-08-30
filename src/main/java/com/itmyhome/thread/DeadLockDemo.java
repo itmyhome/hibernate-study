@@ -1,5 +1,9 @@
 package com.itmyhome.thread;
-
+/**
+ * 这个是测试分支的
+ * @author Administrator
+ *
+ */
 public class DeadLockDemo {
 	private static String A = "A";
 	private static String B = "B";
